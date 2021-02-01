@@ -1,0 +1,9 @@
+http://localhost/simple_api/product/read.php
+http://localhost/simple_api/product/create.php
+http://localhost/simple_api/product/read_one.php?id=60
+http://localhost/simple_api/product/read_one.php?id=999
+http://localhost/simple_api/product/update.php
+http://localhost/simple_api/product/delete.php
+http://localhost/simple_api/product/search.php?s=shirt
+http://localhost/simple_api/product/read_paging.php
+http://localhost/simple_api/category/read.php
